@@ -18,5 +18,6 @@ public class BajajTest {
 	
 	driver.get("https://www.bajajauto.com/");
 	Reporter.log("Bajaj Launched Suffessfully");
+		Reporter.log("Bajaj page modified");
 	}
 }
